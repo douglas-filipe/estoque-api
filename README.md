@@ -16,8 +16,8 @@ e alterar de acordo com suas variáveis de ambiente.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/fastapi-projeto.git
-cd fastapi-projeto
+git clone git@github.com:douglas-filipe/estoque-api.git
+cd estoque-api
 ```
 
 2. Configure o ambiente virtual:
