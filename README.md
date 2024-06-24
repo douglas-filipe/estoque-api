@@ -2,6 +2,7 @@
 
 Siga os passos abaixo para executar a api, estou usando o mysql, então é necessário configurar na sua máquina, pode baixar por este link:
 https://dev.mysql.com/downloads/mysql/
+
 Obs: Já deixei um .env.example, basta renomear o arquivo para .env
 e alterar de acordo com suas variáveis de ambiente.
 
